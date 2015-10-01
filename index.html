@@ -20,8 +20,9 @@
       function initialize() {
       // Create a simple map.
       map = new google.maps.Map(document.getElementById('map-canvas'), {
-        zoom: 9,
-        center: {lat: 43, lng: -79}
+        zoom: 10,
+        // Center at Yonge and 401: 43.743448, -79.406807
+        center: {lat: 43.743448, lng: -79.406807}
       });
 
       // Load a GeoJSON.

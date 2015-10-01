@@ -2,7 +2,19 @@
 
     "type": "FeatureCollection",
     "features": [
-      
+      {
+            "type": "Feature",
+            "properties": {
+                "description": "Bathurst station",
+                "color": "blue",
+                "rank": "7",
+                "ascii": "71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [43.666111, -79.411111]
+            }
+        },
         {
             "type": "Feature",
             "properties": {
