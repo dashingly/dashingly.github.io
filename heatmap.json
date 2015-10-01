@@ -45,6 +45,123 @@
         "type": "Point",
         "coordinates": [-79.536111, 43.637222]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Bloor-Yonge station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.385971, 43.670900]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Broadview station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.358233, 43.676974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "College station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.383103, 43.660801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Davisville station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.397480,43.697140]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Don Mills station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.345880, 43.776117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Downsview station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.462206, 43.749120]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dundas station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.381283,43.656353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Dundas West station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.453484,43.656770]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Finch station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.414625,43.780479]
+      }
     }
   ]
 }
