@@ -11,9 +11,9 @@
                 "ascii": "71"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "Point",
                 "coordinates": [                  
-                  [[43.666111, -79.411111]]
+                  [43.666111, -79.411111]            
                 ]
             }
         },
