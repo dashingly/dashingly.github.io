@@ -20,35 +20,6 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Spadina station",
-        "color": "blue",
-        "rank": "7",
-        "ascii": "71"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.403832,
-          43.667354
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "Kipling station",
-        "color": "blue",
-        "rank": "7",
-        "ascii": "71"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-79.536111, 43.637222]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "description": "Bloor-Yonge station",
         "color": "blue",
         "rank": "7",
@@ -161,6 +132,217 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-79.414625,43.780479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Islington station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.523935,43.645279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "King station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.377925,43.649172]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "description": "Kipling station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.536111, 43.637222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Museum station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.393594,43.667030]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Osgoode station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.386971,43.651007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Queen station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.379648,43.652959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Queen’s Park station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.390043,43.660090]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Scarborough Centre station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.257756,43.774401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Sheppard-Yonge station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.412075,43.761583]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Spadina station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.403832,
+          43.667354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "St Andrew station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.385056,43.647545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "St George station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.397910,43.668706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "St Patrick station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.388661,43.654987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Union station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.380989,43.645256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Yorkdale station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.447507,43.724545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "York Mills station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.406427,43.744853]
       }
     }
   ]
