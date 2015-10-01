@@ -1,35 +1,50 @@
 {
-
-    "type": "FeatureCollection",
-    "features": [
-      {
-            "type": "Feature",
-            "properties": {
-                "description": "Bathurst station",
-                "color": "blue",
-                "rank": "7",
-                "ascii": "71"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-79.411111,43.666111]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Spadina streetcar line",
-                "color": "blue",
-                "rank": "7",
-                "ascii": "71"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [-79.403832,43.667354],
-                    [-79.391923,43.638630] 
-                ]
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Bathurst station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.411111,
+          43.666111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Spadina station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.403832,
+          43.667354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Kipling station",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.536111, 43.637222]
+      }
+    }
+  ]
 }
