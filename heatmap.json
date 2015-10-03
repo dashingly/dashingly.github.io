@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Spadina streetcar line",
+        "description": "Spadina and Harbourfront  streetcar line",
         "color": "red",
         "rank": "7",
         "ascii": "71"
@@ -19,7 +19,10 @@
           [
             -79.391923,
             43.638630
-          ]
+          ],
+          [ -79.391840, 43.637810],
+          [ -79.378651, 43.640507]
+ 
         ]
       }
     },
