@@ -7,6 +7,7 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
 
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <style>
       html, body, #map-canvas {
       height: 100%;
@@ -41,12 +42,16 @@
     </script>
   </head>
   <body>
-    <div id="inputs">
-    This is a quick tool to see where Presto can be used on TTC.
-    It is useful in case you are planning a trip and want to know whether you can just use your Presto card for return trip or you will need tokens/cash to pay.
+    <div class="container">
+        This is a quick tool to see where Presto can be used on TTC.
+        It is useful in case you are planning a trip and want to know whether you can just use your Presto card for return trip or you will need tokens/cash to pay.
+
+      <p>Last updated: 2015-10-01</p>
+      
     </div>
-    <p>Last updated: 2015-10-01</p>
-    <div id="map-canvas"></div>
+    <div class="container">
+      <div id="map-canvas"></div>
+    </div>
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
