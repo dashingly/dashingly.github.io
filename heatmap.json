@@ -4,6 +4,28 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Spadina streetcar line",
+        "color": "red",
+        "rank": "7",
+        "ascii": "71"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.403832,
+            43.667354
+          ],
+          [
+            -79.391923,
+            43.638630
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "description": "Bathurst station",
         "color": "blue",
         "rank": "7",
