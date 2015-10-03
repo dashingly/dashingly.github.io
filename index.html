@@ -9,13 +9,18 @@
 
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <style>
-      html, body, #map-canvas {
-      height: 100%;
-      margin: auto;
-      width: 80%;
-      border:3px solid #8AC007;
-      padding: 10px;
-    }
+      html, body {
+        height: 100%;
+        margin: auto;
+        padding: 10px;
+      }
+      #map-canvas {
+        height: 80%;
+        margin: auto;
+        width: 80%;
+        border:3px solid #8AC007;
+        padding: 10px;
+      }
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
     <script>
@@ -25,7 +30,7 @@
       map = new google.maps.Map(document.getElementById('map-canvas'), {
         zoom: 12,
         // Center on: Lawrence Ave. at Yonge St 43.725201, -79.402164
-        center: {lat: 43.725201, lng: -79.406807}
+        center: {lat: 43.705201, lng: -79.406807}
       });
 
       // Load a GeoJSON.
@@ -45,9 +50,10 @@
   </head>
   <body>
     <div class="container">
-        This is a quick tool to see where Presto can be used on TTC.
-        It is useful in case you are planning a trip and want to know whether you can just use your Presto card for return trip or you will need tokens/cash to pay.
-
+      <h1>Presto card On TTC</h1>
+      This is a map of locations where Presto card is accepted on TTC.<br>
+      You can use it to plan your trip.
+      You will need to get tokens/cash if you are travelling to/from location where Presto is not accepted.
       <p>Last updated: 2015-10-01</p>
       
     </div>
